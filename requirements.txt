@@ -1,3 +1,5 @@
 pandas==1.0.1
 numpy==1.18.1
 matplotlib==3.1.3
+beautifulSoup==4.9.0
+watermark==2.0.2
