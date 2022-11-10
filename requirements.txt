@@ -9,3 +9,5 @@ plotly>=5.7.0
 statsmodels>=0.11.0
 ipywidgets>=7.7.2
 streamlit>=1.2.0
+jupyter-server-proxy>=1.2.0
+nbserverproxy>=0.8.8
